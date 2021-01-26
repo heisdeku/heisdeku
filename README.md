@@ -16,25 +16,20 @@ Recently i have been confused and devoted a lot of my time into the mastery of C
   - FullStack React
   - Introducing Dart SASS
 
-- Books To Read
 
-  - Introduction to Nodejs
-  - Would add more....
-
-- Languages and Library to Master and Improve ON
+- Languages and Library to Master and Improve On
 
   - TypeScript (Would want to see how javascript could have static types before been run)
   - Flutter
-  - ReactNative
+  - React Native
   - Php
   - Nodejs
   - Styled Components
-  - C++ (Maybe for game development)
-  - Java & Kotlin (After I've launced a startup 🤣)
+  - C++ (Maybe for game development)  )
 
 ## <u>How to Contact Me</u>
 
 I am also available and open to contacted on major social media channels and mails.
 
-- GMail: [Oluwaferanmi Mail](adedokunoluwaferanmi@gmail.com)
+- Gmail: [Oluwaferanmi Mail](mailtto:adedokunoluwaferanmi@gmail.com)
 - Twitter: [deku](https://twitter.com/heisdeku)
