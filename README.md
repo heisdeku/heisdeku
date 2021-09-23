@@ -4,11 +4,11 @@ Hello and Welcome, My name is Oluwaferanmi Adedokun, for the most part of my lif
 
 ## <u>Brief Intro</u>
 
-Aside from constants thoughts on building and launching the next super cool product for Africa and scaling it, I am constantly building myself up to be a freelance & Full time Frontend developer(if there's any gig), working on the first iteration of my Portfolio, making constant commits to both rockrt.css and my shorten links App and steadily making sure to make <b style="font-size: 18px;"><i>"A commit a day  💆"</i></b>
+Aside from constants thoughts on building and launching the next super cool product for Africa and scaling it, I am constantly building myself up to be a pixel obsessed Frontend developer, working on the first iteration of my Portfolio, making constant commits to a dope new savings company and steadily making sure to make <b style="font-size: 18px;"><i>"A commit a day  💆"</i></b>
 
 ## <u>Learning and Progress</u>
 
-Recently i have been confused and devoted a lot of my time into the mastery of CSS, Javascript DOM methods and React Framweworks.
+Recently i have decided to take React Native by the horns and devote a lot of my time into the mastery of CSS, Javascript DS and Next Js
 
 
 ## <u>How to Contact Me</u>
