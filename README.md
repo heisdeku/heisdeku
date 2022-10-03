@@ -20,9 +20,9 @@ I am also available and open to contacted on major social media channels and mai
 - Website: https://siredeku.dev
 
 
-<a href="https://github.com/ichtrojan">
+<a href="https://github.com/hesisdeku">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heisdeku&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
-<a href="https://github.com/ichtrojan">
+<a href="https://github.com/heisdeku">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisdeku&theme=nord&langs_count=4&hide=javascript,html,css,typescript" />
 </a>
