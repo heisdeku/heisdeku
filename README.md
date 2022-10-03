@@ -1,15 +1,15 @@
-# Hi there 👋
+## Deku ♤
+My name is Oluwaferanmi Adedokun, for the most part of my life for now, I'm a Frontend Engineer.
 
-Hello and Welcome, My name is Oluwaferanmi Adedokun, for the most part of my life for now, I'm a Frontend Engineer. Working on my progress on building anything around the web with Javascript(Backend and Mobile) to become a Fullstack Engineer.
+### Whoami?
+- The builder of things, the thinker of ideas, Product Developer
+- curiousity or creativity
+- before deku, there was Feranmi
 
-## <u>Brief Intro</u>
-
-Aside from constants thoughts on building and scaling, ZeddPay as the Head of Product I am constantly working on myself to be a Creative Developer (Frontend & Backend), making constant commits to things I find interesting and steadily making sure to make <b style="font-size: 18px;"><i>"A commit a day  💆"</i></b>
-
-## <u>Learning and Progress</u>
-
-Recently i have decided to take React Native by the horns and devote a lot of my time into the mastery of CSS, Javascript DS and Next Js
-
+### Technology Stacks
+- Language: Javascript, PHP, Java
+- Frameworks: Node, Express, React, React Native, Vue, Tyescript
+- DBMS: PostgreSQL, MongoDB
 
 ## <u>How to Contact Me</u>
 
@@ -18,3 +18,11 @@ I am also available and open to contacted on major social media channels and mai
 - Gmail: [Oluwaferanmi's Mail](mailto:adedokunoluwaferanmi@gmail.com)
 - Twitter: [deku](https://twitter.com/heisdeku)
 - Website: https://siredeku.dev
+
+
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heisdeku&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+</a>
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisdeku&theme=nord&langs_count=4&hide=javascript,html,css,typescript" />
+</a>
