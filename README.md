@@ -7,8 +7,8 @@ My name is Oluwaferanmi Adedokun, for the most part of my life for now, I'm a Fr
 - before deku, there was Feranmi
 
 ### Technology Stacks
-- Language: Javascript, PHP, Java
-- Frameworks: Node, Express, React, React Native, Vue, Tyescript
+- Language: Javascript, PHP, Java, Swift, Kotlin
+- Frameworks: Node, Express, React, React Native, Vue, Typescript
 - DBMS: PostgreSQL, MongoDB
 
 ## <u>How to Contact Me</u>
@@ -16,8 +16,7 @@ My name is Oluwaferanmi Adedokun, for the most part of my life for now, I'm a Fr
 I am also available and open to contacted on major social media channels and mails.
 
 - Gmail: [Oluwaferanmi's Mail](mailto:adedokunoluwaferanmi@gmail.com)
-- Twitter: [deku](https://twitter.com/heisdeku)
-- Website: https://siredeku.dev
+- Twitter: [deku](https://twitter.com/siredeku)
 
 
 <a href="https://github.com/hesisdeku">
